@@ -2,10 +2,9 @@
 <img src="static/Logo-FCUE-2019-cmjn.png" width="180px" align="left">
 
 
+### Applications of Machine Learning
 
-# Applications of Machine Learning
-
-This repository contains the material for the workshop on Applications of Machine Learning. The workshop is divided into two parts:
+This repository contains the material for the master class on the applications of machine learning. The session is divided into two parts:
 
 **Introduction**: This part provides a comprehensive introduction to machine learning, explaining fundamental concepts and laying the groundwork for the hands-on session. You will be able to find presentation slides in PDF format [here]() at the end of the workshop.
 
