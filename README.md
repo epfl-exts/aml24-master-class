@@ -22,9 +22,8 @@ To get started with the hands-on session you have the following options. Choose 
 
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/epfl-exts/aml24-master-class/blob/main/text_classification/notebook-1.ipynb) 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/epfl-exts/aml24-master-class/c03e8f694cde6e00615d8c340f2ee93fa512f816?urlpath=lab%2Ftree%2Ftext_classification%2Fnotebook-1.ipynb)
-[![Offline](https://img.shields.io/badge/Offline_View-Open-Blue.svg)](https://github.com/epfl-exts/aml24-master-class/blob/main/static/notebook-1_completed.ipynb)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/epfl-exts/aml24-master-class/main)
+[![Offline](https://img.shields.io/badge/Offline_View-Open-Blue.svg)](https://github.com/epfl-exts/aml24-master-class/blob/main/static/notebook-1-completed.ipynb)
 
 - **Colab**: Open the jupyter notebook in **Google Colab** to run the codes interactively on the cloud (recommended for this workshop). Note that you need to have a Google account to run the code in Google Colab.
 
