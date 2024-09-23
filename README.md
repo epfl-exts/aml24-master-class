@@ -1,8 +1,10 @@
-<img src="static/logo_red.png" width="150px" align="right">
-<img src="static/Logo-FCUE-2019-cmjn.png" width="180px" align="left">
+<img src="static/Logo-FCUE-2019-cmjn.png" width="180px" align="right">
 
 
 ### Applications of Machine Learning
+
+&nbsp;
+&nbsp;
 
 This repository contains the material for the master class on the applications of machine learning. The session is divided into two parts:
 
@@ -19,8 +21,8 @@ We want to build a spam detector which, given examples of spam emails and exampl
 To get started with the hands-on session you have the following options. Choose one by clicking on the badges below:
 
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/epfl-exts/aml24-master-class/blob/main/text_classification_case_study/notebook-1.ipynb) 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/epfl-exts/aml24-master-class/c03e8f694cde6e00615d8c340f2ee93fa512f816?urlpath=lab%2Ftree%2Ftext_classification_case_study%2Fnotebook-1.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/epfl-exts/aml24-master-class/blob/main/text_classification/notebook-1.ipynb) 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/epfl-exts/aml24-master-class/c03e8f694cde6e00615d8c340f2ee93fa512f816?urlpath=lab%2Ftree%2Ftext_classification%2Fnotebook-1.ipynb)
 [![Offline](https://img.shields.io/badge/Offline_View-Open-Blue.svg)](https://github.com/epfl-exts/aml24-master-class/blob/main/static/notebook-1_completed.ipynb)
 
 
